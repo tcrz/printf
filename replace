@@ -1,2 +1,0 @@
-#!/bin/bash
-sed -i 's/holberton.h/main.h/g' *.c
